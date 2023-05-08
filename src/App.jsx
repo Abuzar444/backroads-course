@@ -8,6 +8,7 @@ import Error from "./pages/Error";
 import Cocktail from "./components/Cocktail";
 import Navbar from "./components/Navbar";
 function App() {
+  // commit
   return (
     <Router>
       <Navbar></Navbar>
